@@ -48,6 +48,8 @@ int main() {
     fruitPrices["orange"] = 0.75;
     fruitPrices["mango"] = 1.5;
 
+    fruitPrices["gautam"] = 2.5;
+    fruitPrices["rounak"]= 3.5;
     string name;
     vector<string> fruits;
     vector<int> quantities;
