@@ -1,5 +1,6 @@
      Fruit  Quantity     Price     Total
 ----------------------------------------
     gautam    10           2.5       25
+    rounak    20           3.5       70
 ----------------------------------------
-                 Total Price: 25.0 
+                 Total Price: 95.0 
