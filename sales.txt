@@ -1,7 +1,9 @@
      Fruit  Quantity     Price     Total
 ----------------------------------------
     gautam    10           2.5       25
-    rounak    20           3.5       70    
+    rounak    20           3.5       70   
+    suvajit    5          100       500
+
 ----------------------------------------
                  Total Price: 95.0 
 
