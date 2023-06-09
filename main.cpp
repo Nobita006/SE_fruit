@@ -47,6 +47,7 @@ int main() {
     fruitPrices["banana"] = 0.5;
     fruitPrices["orange"] = 0.75;
     fruitPrices["mango"] = 1.5;
+    fruitPrices["yash"]=290;
 
     string name;
     vector<string> fruits;
