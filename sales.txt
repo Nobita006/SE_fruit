@@ -1,5 +1,5 @@
      Fruit  Quantity     Price     Total
 ----------------------------------------
-
+    gautam    10           2.5       25
 ----------------------------------------
-                 Total Price: 0 
+                 Total Price: 25.0 
