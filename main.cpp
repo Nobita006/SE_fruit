@@ -4,7 +4,8 @@
 #include <map>
 #include <fstream>
 #include <string>
-
+#include <unistd.h>
+#include <ctypes.h>
 using namespace std;
 
 // Function to calculate the total price for a fruit
@@ -18,7 +19,7 @@ void saveSalesList(const string& filename, const vector<string>& fruits, const v
     if (file.is_open()) {
         file << setw(10) << "Fruit" << setw(10) << "Quantity" << setw(10) << "Price" << setw(10) << "Total" << endl;
         file << setfill('-') << setw(40) << "-" << setfill(' ') << endl;
-
+   fork();
         double totalPrice = 0.0;
         for (size_t i = 0; i < fruits.size(); i++) {
             string fruitName = fruits[i];
